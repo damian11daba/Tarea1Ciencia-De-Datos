@@ -1,0 +1,1 @@
+Este readme va a ser solo pa que lo veamos nosotros, si solo tenemos que subir el archivo pa que corra la cuestion no un repositorio xd
